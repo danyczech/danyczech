@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @danakal
+- 👋 Hi, I’m @danyczech
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning JavaScript, Vue.js
-- 💞️ I’m looking to collaborate on some web app 
-- 📫 How to reach me LinkedIn www.linkedin.com/in/dana-kalcikova
+- 🌱 I’m working as a frontend developer in React and Next.js
+- 💞️ I’m looking to collaborate on some web pages in React/Next.js or HTML/CSS/JS
+- 📫 How to reach me: LinkedIn www.linkedin.com/in/danyczech
 <!---
-danakal/danakal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+danyczech/danyczech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
